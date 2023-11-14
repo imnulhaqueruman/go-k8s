@@ -1,4 +1,4 @@
-...bash
+```bash
  cd kubernetes
  # exec kubernetes pod using go-client 
  go run exec.go 
